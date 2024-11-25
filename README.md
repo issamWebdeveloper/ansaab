@@ -108,6 +108,6 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 
 ## Contact
 
-Pour toute question ou suggestion, n'hésitez pas à nous contacter à [contact@ansaab.com](mailto:contact@ansaab.com).
+Pour toute question ou suggestion, n'hésitez pas à nous contacter à [contact@ansaab.com](mailto:contact@ansaab.link).
 
 ---
